@@ -1,5 +1,6 @@
 # 💫 About Me:
-BIM UND 3D Tools With AI especially LLM fine-tuning <br>I am Looking for Learning more <br>
+BIM and 3D Tools With AI especially LLM fine-tuning 
+ <br>I am Looking for Learning more <br>
 
 
 ## 🌐 Socials:
